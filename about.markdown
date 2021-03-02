@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /aboutme/
 ---
 
 I'm a Roman historian predominantly interested in studying the evolving social status of women at the end of the Republic and the start of the Empire. I have a background in Creative Writing and focus my research on the way that women were talked about in Roman literature and the way that women talked about themselves in epigraphic materials.
