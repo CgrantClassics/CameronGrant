@@ -5,7 +5,7 @@ date:   2021-03-09 11:51:00 -0500
 categories: 
 ---
 
-Text mining and visualization tools can be great for finding patterns and trends across Latin inscriptions!...when they work. I ran into issues this week with getting around 23 of my cleaned inscriptions input into the text mining tool *Topic Modeling Tool*, but had more success uploading everything into *Voyant*. My goal this week was to do some text mining and comparative analysis of a small sample of Latin inscriptions from the african provinces and a poem by the satyrist Martial.
+Text mining and visualization tools can be great for finding patterns and trends across Latin inscriptions!...when they work. I ran into issues this week with getting around 23 of my cleaned inscriptions input into the text mining tool [*Topic Modeling Tool*](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html), but had more success uploading everything into [*Voyant*](https://voyant-tools.org/). My goal this week was to do some text mining and comparative analysis of a small sample of Latin inscriptions from the african provinces and a poem by the satyrist Martial.
 
 ## The Inscriptions
 
