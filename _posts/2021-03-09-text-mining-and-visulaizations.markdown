@@ -13,7 +13,9 @@ The inscriptions I worked with this week all originated from CIL III in the prov
 Below is one example of the inscriptions used in this week's experiment.
 
 > **Province of Origin:** ALEXANDREA 
+>
 > **Inscription Number:** 19
+>
 > **Find Spot:** Alexandreae rep. a. 1746.
 >
 >DOMINI NOSTRI INVICTISSIMI ET VENERABILES
@@ -63,6 +65,7 @@ I chose to compare this particular inscripition set with a poem by the satyrist 
 Below is an english translation, in case you're interested in reading any Martial today. Beware the euphamisms!
 
 >10.63  EPITAPH OH A NOBLE MATRON:
+>
 >Small though the tomb, traveller, on which you read these lines, it yields not in interest to the sepulchres of Mausolus or the Pyramids. I have lived long enough to be twice a spectator of the Secular Games; and my life lost nothing of happiness before my funeral pyre. Juno gave me five sons, and as many daughters; and their hands closed my dying eyes. Rare conjugal glory, too, was mine; my chaste love knew but one husband.
 
 Obviously this is meant to be a humorus and raunchy poem, but it holds to the conventions of inscriptions fairly well. As evidenced by Voyant, it also holds correlations to the same themes od chastity, honor, and glory which we find in inscription 2.1.19. As an added bonus, it also references the pyramids of Egypt, and the above inscription was uncovered nearby the pyramids.
