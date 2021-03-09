@@ -38,11 +38,11 @@ The special benefit of the above inscription (CIL III 2.1.19) is that it is the 
 
 I ran this and 21 other inscriptions through Voyant with the below results:
 
-![CIL III Voyant Text Graph](C:\Users\profg\CILImages\CIL_III_Voyant)
+![CIL III Voyant Text Graph](/CameronGrant/Assets/CIL_III_Voyant.png)
 
 This graph demonstrates the frequency of familial phrases, such as "son" or "mother" in the sample corpus.
 
-![CIL III 2.1.19 Voyant Text Graph](C:\Users\profg\CILImages\CIL_III_Voyant2.1.19BreakDown)
+![CIL III 2.1.19 Voyant Text Graph](/CameronGrant/Assets/CIL_III_Voyant2.1.19BreakDown.png)
 
 This graph focuses on inscription 2.1.19 to demonstrate the frequency and correlation of the word "mother" with phrases denoting glory, fame and honor.
 
@@ -70,7 +70,7 @@ Below is an english translation, in case you're interested in reading any Martia
 
 Obviously this is meant to be a humorus and raunchy poem, but it holds to the conventions of inscriptions fairly well. As evidenced by Voyant, it also holds correlations to the same themes od chastity, honor, and glory which we find in inscription 2.1.19. As an added bonus, it also references the pyramids of Egypt, and the above inscription was uncovered nearby the pyramids.
 
-![Martial Voyant Text Graph](C:\Users\profg\CILImages\Martial_Voyant)
+![Martial Voyant Text Graph](/CameronGrant/Assets/Martial_Voyant.png)
 
 ## The Conclusion
 
