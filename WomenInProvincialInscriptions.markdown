@@ -16,3 +16,7 @@ Volume Abbreviations | Volume Number | Locations
 -------------------- | ------------- | ---------
 CIL II | Volume 2 | Inscriptions from Roman Spain
 CIL III | Volume 3 | Inscriptions from Roman Egypt and Asia
+
+
+
+*Disclaimer*: This project is being done as I dip my toes into the realm of computational methods for Humanities research. I claim neither mastery nor accuracy at this point in time, this is an artifact of the learning process. 
