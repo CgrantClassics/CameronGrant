@@ -4,14 +4,14 @@ title: Cirriculum Vitae
 permalink: /CV/
 ---
 
-#Education#
+# Education
 
 MA	Florida State University, Classical Civilizations 	April 2021
 
 BA	Florida State University, Classical Civilizations 	May 2018
 BA	Florida State University, Creative Writing		May 2018
 
-#Honors and Awards#
+# Honors and Awards
 
 Award | Description | Date
 ----- | ----------- | ----
@@ -19,16 +19,22 @@ Outstanding Teaching Assistant Award | Nominated; Awarded to graduate students w
 AIA Waldbaum Scholarship | Field school scholarship awarded through Archaeological Institute of America | 2020
 Girl Scout Gold Award | Highest award earned by a Girl Scout | 2015
 
-#Langauges#
+# Langauges
 
 English (Native language)
+
 Latin (Intermediate reading/writing)
+
 French (Novice listener/speaker, Intermediate reading/writing)
+
 German (Novice listener/speaker/writing, Advanced reader)
+
 American Sign Language (Novice listener/speaker)
 
-#Computer Skills#
+# Computer Skills
 
 **Programming:** Markdown, Regexr
+
 **Applications:** Excel, PowerPoint, Word, Adobe Acrobat Pro, Adobe Premiere Pro
+
 **Platforms:** Zoom, Canvas, GitHub
