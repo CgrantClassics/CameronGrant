@@ -34,13 +34,15 @@ Program for Instructional Excellence TA Orientation and Training (August 2019)
 
 # Organiztions
 
-The Classical Association of the Middle West and South
+The Classical Association of the Middle West and South (2019-Present)
 
 Phi Sigma Theta National Honor Society
 
 National Society of Leadership and Success
 
 Campus Girl Scouts, FSU, Secretary (2017-2018)
+
+Etruscan Foundation (2019-Present)
 
 # Langauges
 
