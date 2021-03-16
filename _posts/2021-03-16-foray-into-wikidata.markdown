@@ -46,7 +46,7 @@ I also added the filter for a place of birth in the province of Gaul as well as 
 ![WikiData query for "Roman Empire", "female", "Gaul"](/CameronGrant/Assets/Locusta_Query.png)
 ![WikiData query for "Roman Empire", "female", "Hispania"](/CameronGrant/Assets/Melania_Query.png)
 
-Clearly narrower searches return far fewer results. In the WikiDate-verse there are only two women who are tagged as having been born in these provinces during the period of the Empire: Locusta in Gaul (Nero's court poisoner and trainer of poisoners extraordinare!) and Melania the Elder in Hispania.
+Clearly narrower searches return far fewer results. In the WikiData-verse there are only two women who are tagged as having been born in these provinces during the period of the Empire: Locusta in Gaul (Nero's court poisoner and trainer of poisoners extraordinare!) and Melania the Elder in Hispania.
 
 
 ## Final Thoughts
