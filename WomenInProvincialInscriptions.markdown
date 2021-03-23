@@ -67,4 +67,18 @@ The detailed map above depicts the provinces of the Roman Empire during the reig
 
 #### Digitizing: OCR and Plain Text
 
-For an idea of what a full digitization of the CIL volumes looks like, check out the [Arachne Project](https://arachne.uni-koeln.de/drupal/?q=en/node/291)! I am working with the same volumes as the Arachne team, though at a much smaller, and novice, scale.
+Inversely, I started my digitization process with CIL III. For the sake of consistency, I will do so again now.
+
+###### CIL III: Egypt and Asia
+
+I ran my first sections from this volume through Google's OCR by uploading PDF files to Google Drive and opening as a Google Doc. I had to splice each page in half with [Sejda](https://www.sejda.com/split-pdf-down-the-middle) to account for the columns. The process was long and repetitive, but it got the job done... sort of.
+
+![CIL III Plain Text, Un-Cleaned](/CameronGrant/Assets/CIL_III_DirtyPlainTxt.png)
+
+As you can see from the above image-- which covers the same inscriptions from Figure 2-- the OCR scan from Google copied each line twice along with invisible formating and peices of dirt from the original scan. The quality of the lines had no rhyme or reason and the process of cleaning by hand was arduous.
+
+
+
+
+
+For an idea of what a full digitization of the CIL volumes looks like, check out the [Arachne Project](https://arachne.uni-koeln.de/drupal/?q=en/node/291)! I am working with the same volumes as the Arachne team, though at a much smaller, and novice, scale. Their goal is to fully digitize and make accessible these volumes, my own is to 1) learn the process, 2) produce inscriptions that are searchable for the purposes of gender theory studies.
