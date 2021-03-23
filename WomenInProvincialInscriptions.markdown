@@ -58,7 +58,7 @@ Fig 2: CIL III
 
 #### The Provinces in Question
 
-The inscriptions from CIL II were recovered from Roman Spain-- *Hispania*-- (light blue circle). The inscriptions from CIL III were uncovered in Roman Egypt and Asia (dark green). Thus far I have only worked with the inscriptions from the African provinces captured in the region as shown on the map below.
+The inscriptions from CIL II were recovered from Roman Spain-- *Hispania*-- (light blue circle). The inscriptions from CIL III were uncovered in Roman Egypt and Asia-- *Aegyptus et Asiae*-- (dark green). Thus far I have only worked with the inscriptions from the African provinces captured in the region as shown on the map below.
 
 ![Provincial Map](/CameronGrant/Assets/RegionMap.png)
 The detailed map above depicts the provinces of the Roman Empire during the reign of Trajan who died in 117 CE. This was the Empire's greatest extent.
@@ -67,18 +67,49 @@ The detailed map above depicts the provinces of the Roman Empire during the reig
 
 #### Digitizing: OCR and Plain Text
 
-Inversely, I started my digitization process with CIL III. For the sake of consistency, I will do so again now.
+The OCR plain text that is produced both by Google and by Fine Reader have their issues, but the clean products also have their own unique markers which need to be addressed before moving forward.
 
-###### CIL III: Egypt and Asia
+Character/Symbol | Meaning in Clean Text
+---------------- | ---------------------
+`/` | Break in the physical inscription
+`///` etc. | Dashes inscribed within the inscription
+`#, *, +` | A drawing in the inscription
+
+
+In a backwards fashion, I started my digitization process with CIL III. For the sake of consistency, I will do so again now.
+
+The final products of my digitization process can be found on my [GitHub](https://github.com/CgrantClassics/CameronGrant/tree/main/Inscriptions).
+
+For an idea of what a full digitization of the CIL volumes looks like, check out the [Arachne Project](https://arachne.uni-koeln.de/drupal/?q=en/node/291)! I am working with the same volumes as the Arachne team, though at a much smaller, and novice, scale. Their goal is to fully digitize and make accessible these volumes, my own is to 1) learn the process, 2) produce inscriptions that are searchable for the purposes of gender theory studies.
+
+
+#### **CIL III: Egypt and Asia**
 
 I ran my first sections from this volume through Google's OCR by uploading PDF files to Google Drive and opening as a Google Doc. I had to splice each page in half with [Sejda](https://www.sejda.com/split-pdf-down-the-middle) to account for the columns. The process was long and repetitive, but it got the job done... sort of.
 
 ![CIL III Plain Text, Un-Cleaned](/CameronGrant/Assets/CIL_III_DirtyPlainTxt.png)
 
-As you can see from the above image-- which covers the same inscriptions from Figure 2-- the OCR scan from Google copied each line twice along with invisible formating and peices of dirt from the original scan. The quality of the lines had no rhyme or reason and the process of cleaning by hand was arduous.
+As you can see from the above image-- which covers the same inscriptions from Figure 2-- the OCR scan from Google copied each line twice along with invisible formating and peices of dirt-- all those strange symbols at the top? The orignial scan was probably dirty or grainy!. The quality of the lines had no rhyme or reason and the process of cleaning by hand was arduous, but doable with a copy of the scan at hand.
+
+![CIL III Plain Text, Cleaned](/CameronGrant/Assets/CIL_III_CleanPlainTxt.png)
+
+I cleaned each section and indicated the larger provincial region, and then the specific province name. I then ensured that each inscription was condensed into a single line. As you can see, there is a great deal of information included in each inscription. I logged the archival data along with the inscription in the following manner for each inscription, a "tab" space between each category:
+
+Inscription # | Find Spot (if applicable) | Body of Inscription 
+------------- | ------------------------- | ------------------- 
+
+Some inscriptions did not include a known find spot. In these cases I inserted a double tab to leave that column blank. This process means that the inscriptions can now be easily copied into a program like Excel... and it produces a neat little table as well!
+
+![CIL III Table Example](/CameronGrant/Assets/CIL_III_TableExample.png)
 
 
+The end product of digitization and cleaning produces something like this:
+
+> VII. CYRENAE (Gretna).  
+> (cf. C. I. Gr. 5129-5183).  
+> 8	 • Cyrenis ad aedem Apollinis. 	IVLIAE - AVGVSTAE CYRENENSES P-OCTAVIO-PROCOS 
+> 9	 Cyrenis. 	 pONT • MAX • TRIB NI M FACTA 
+> 10	 litteris magnis in epistylio, Cyrenis. 	 PORTICVS • CAESAREI • Restituit IVS• M • F • PACILAEVS L  
 
 
-
-For an idea of what a full digitization of the CIL volumes looks like, check out the [Arachne Project](https://arachne.uni-koeln.de/drupal/?q=en/node/291)! I am working with the same volumes as the Arachne team, though at a much smaller, and novice, scale. Their goal is to fully digitize and make accessible these volumes, my own is to 1) learn the process, 2) produce inscriptions that are searchable for the purposes of gender theory studies.
+#### **CIL II: Spain**

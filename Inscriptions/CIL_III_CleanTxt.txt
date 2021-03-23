@@ -1,4 +1,4 @@
-CIL_III_CleanTxt_Week_11
+CIL_III_CleanTxt
 
 PARS PRIMA
 
@@ -6,7 +6,7 @@ CRETA ET CYRENAICA.
 
 I. POLYRRHENIA CRETAE (Paleocastro).  
 (cf. C. I. Gr. 2559 al.)  
-1		 IMP • CAESAR. dIVI • / • COS • III · c. 7l3  
+1		 IMP • CAESAR. dIVI • / • COS • III  
 2	 Paleocaatri. 	 traiaNVS ' HADRIANus 
 
 II. Lutro Cretae. 
@@ -31,7 +31,6 @@ VII. CYRENAE (Gretna).
 (cf. C. I. Gr. 5129-5183).  
 8	 • Cyrenis ad aedem Apollinis. 	IVLIAE - AVGVSTAE CYRENENSES P-OCTAVIO-PROCOS 
 9	 Cyrenis. 	 pONT • MAX • TRIB NI M FACTA 
-Nb M FACTA  
 10	 litteris magnis in epistylio, Cyrenis. 	 PORTICVS • CAESAREI • Restituit IVS• M • F • PACILAEVS L  
 
 VIII. APOLLONIA CYRENAICA (Marsa Suza)
