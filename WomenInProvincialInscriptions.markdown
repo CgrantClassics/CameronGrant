@@ -12,12 +12,12 @@ The Corpus Inscriptionum Latinarum is a vast collection of inscriptions collecte
 
 Digitizing CIL corpus of Latin Inscriptions from the provinces of Spain, Egypt, and Asia in the hopes of creating a database for women in the Roman Mediterranean world.
 
-Final corpus digitized using Google OCR.
+Final corpus digitized using Fine Reader OCR, with a smattering of Google OCR.
 
 Volume Abbreviations | Volume Number | Locations
 -------------------- | ------------- | ---------
 CIL II | Volume 2 | Inscriptions from Roman Spain
-CIL III | Volume 3 | Inscriptions from Roman Egypt and Asia
+CIL III | Volume 3, Part 1 | Inscriptions from Roman Egypt and Asia
 
 
 
@@ -40,3 +40,22 @@ It should also be noted that the inscriptions collected in the CIL volumes consi
 
 
 ## The Material: Products of Digitization
+
+I began this project using the scanned texts of CIL II and CIL III from [HathiTrust](https://catalog.hathitrust.org/Record/100029672). These records are now obsolete as newer additions have been released, and are thus out of copy right. In terms of digitization, the corpus poses a few unique issues. 
+1. The inscriptions are printed as closely as possible to their state of preservation. This means that some inscriptions are missing sections, have sections which were reconstructed by scholars, or have breaks in them which do not translate to OCR. 
+2. The printed pages themselves are split into columns and sections which cause confusion for most OCR programs. I finally settled on using [ABBYY Fine Reader](https://pdf.abbyy.com/finereader-pdf/trial/) which is more adept at running OCR on tables and columns.
+Below are two images of the actual printed pages of the CIL volumes. You can see why the formatting may prove difficult for text recognition softwares that read from left to right!
+
+![CIL II](/CameronGrant/Assets/CIL_II_OgPrintPage.png)
+Fig 1: CIL II 
+
+![CIL III](/CameronGrant/Assets/CIL_III_OgPrintPage.png)
+Fig 2: CIL III
+
+#### The Provinces in Question
+
+The inscriptions from CIL II were recovered from Roman Spain-- *Hispania*-- (light blue circle). The inscriptions from CIL III were uncovered in Roman Egypt and Asia (dark green). Thus far I have only worked with the inscriptions from the African provinces captured in the region as shown on the map below.
+
+![Provincial Map](/CameronGrant/Assets/RegionMap.png)
+The detailed map above depicts the provinces of the Roman Empire during the reign of Trajan who died in 117 CE. This was the Empire's greatest extent.
+[Original Map](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Roman_provinces_trajan.svg/1732px-Roman_provinces_trajan.svg.png)
