@@ -113,3 +113,21 @@ The end product of digitization and cleaning produces something like this:
 
 
 #### **CIL II: Spain**
+
+The scans of this volume were run through Fine Reader, and the results of the scans were vastly improved.
+
+![CIL II Plain Text, Un-Cleaned](/CameronGrant/Assets/CIL_II_DirtyPlainTxt_FineReader.png)
+
+There are no double lines, and the scan clearly picked up on the columns without smooshing them together (smooshing is, of course, a highly technical term).
+
+I went through the process of hand cleaning the text again. This text is more condusive to automating the cleaning process through the use of [Regular Expressions](https://regex101.com/), but by this point I was in the zone of cleaning by hand. The results are clearly similar in appearance to CIL III.
+
+![CIL II Plain Text, Cleaned](/CameronGrant/Assets/CIL_II_CleanPlainTxt_FineReader.png)
+
+> I. OSSONOBA (Faro).
+> 1 		IMP • CAES • P • LI CINIO-VALERI ANO-P-F-AVG-PONT MAX- P • P • TR • POT• III COS • RES • P • OSSON EX • DECRETO • ORD DEVOTa•NVMINI M AI ES T A T I EIVS  	
+> 2		 M • CORNELIVS • ERIDANVS • C-IVNIVS • RECEPTVS OBHONOREM • IIIIIVIR • D • S • P • D •  	
+> 3	 	d • m • s c • A n n I v s R O M V L V S ANNORVM XXVIII H-S-E-S-T-T-L 	
+
+
+Obviously this is a far cry from the sort of information which I can use to find women in these inscriptions; however, it's the sort of data which I can run through analysis tools that *would* produce useful results for the sort of research I am working on.
