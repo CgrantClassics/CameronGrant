@@ -1,0 +1,50 @@
+CIL_II_CleanTxt
+
+PARS PRIMA 
+
+LVSTITANIA
+
+I. OSSONOBA (Faro).
+
+1 		IMP • CAES • P • LI CINIO-VALERI ANO-P-F-AVG-PONT MAX- P • P • TR • POT• III COS • RES • P • OSSON EX • DECRETO • ORD DEVOTa•NVMINI M AI ES T A T I EIVS  	152
+2		 M • CORNELIVS • ERIDANVS • C-IVNIVS • RECEPTVS OBHONOREM • IIIIIVIR • D • S • P • D •  	85
+3	 	d • m • s c • A n n I v s R O M V L V S ANNORVM XXVIII H-S-E-S-T-T-L 	68
+4		d • m • s C ATVR I S AB • P R I MAE - CONIVGI - PIISSIMAE QVAE • VIXIT • ANN • XXV M • VIII • L • CALP • THEODORVS • MARIT 	122
+5		D • M • S IVNIA AERENNIA ANNoRVM 	32
+6 		D • M • S TELA .... DOLE ...........	36
+7	por cima da porta 	......ESCVS ....	16
+	junto d muralha	.... L-LVC.......	17
+	no cunhal do arco que serve de fundo	. . . VICTOR.....	17
+8		I ❖ o ❖ M In memoriam L * ATILI • MAXIMI SEVERIANI • F IL • P I E N T I S S I M I L-ATIL • ATIL’ANVS ET • ARTVLLIA* G > F • SEVERA • EX GENTIL1B POSVERVIT	154
+9 	Louie, fragmentum tabellae rep. a. I860. 	 d M ROphime___	11
+10	Boudens	TIROR- TIORIRAS 	15
+11		CINEDE CEFALVS 	14
+12	Fuzeta	D • M • S T • MANLIVS L AC O N • A N N O R • L V  H-S E- E-S-T-T-L 	66
+
+II. BALSA (Tavira).
+
+13 	Reperta c. a. 1750 	FORTVNAE•AVG SACR ANNIVS • PRIMIT1VVS O B H ONOR EM II1III • V1R • SVI EDITO • BARCARVM CERTAM1NE • ET PVGILVM* SPORT VLIS ETIAM'CIVIBVS DATIS D • S • P • D • D 	160
+14	 Reperta a. 1856	CATVRICO CVRMO . . AM . . NIS........ DIES. . VIII-CATmRIcA ACA. . AN. . A• MARItO• Bene MeREnd • C . . . D 	107 
+
+III. MYRTILIS (Mertola).
+
+15	 E muris oppidi removit	EX’D-D-M-ES-M-MYR.....R PER • C • IVLIVM • MARIN VM OMARCIVM«OPTATVM« »ViR 	74
+16 	'Sobre a porta da torre do Valredondo,	d ♦ m 0 s aemiLiAE L......MA TRI • SERTO RIVS • NIpEL LIO • POSVIT 	66
+17	Myrtili Olisiponem misit Vidal	L • FIRMIDIVS PEREGRINVS VTICENSIS VIXIT • AN • LX H • S • E • S • T • T • L 	76
+18 Vide praecedentem	D • M • S • HERENNIA SE CVNDINA VIXIT AN • LV • PVB • FELIX OSP MER POS 	71
+19	 Vide n. 17.	d m s Q_v i n tvs 1v l iv s LVP VIX ANN III M •NSIBVS SeX FILVMB na FILIO PIENT1SS too pofVIT HSE«TTL 	101
+20	Vide n. 17.	D • M • S KAM • LEN/ IV • VIXS / ANO • I • M HIC SITV/ HEC•S•T•T•L/ 	67
+
+
+IV. MEROBRIGA
+
+21	 Locum accuratius non indicat 	AESCVLAPIO DEO CATTIVS-IANVARIVS MED1CVS ’ P ACENSIS fESTAMENTO • LEGAVIT OBMERITA•SPLEND I D I S S I M I - O R D I N I S quoD • peQV« • IN • QVATRI dit VM • P R A E S TIT E R IT /ABIVS- ISAS-HERES FAC * CVR* 	208
+22	 Reperta a. 1808 in castello	MARTI S A C R V M I N MONO REM • G*PAG MARINI* PAG • MARI ANE-FRATRI PIENTISSIM 	79
+23	 Reperta a. 1808 cum praece-dente Gomes.	VENERI • VICTRI CI- A V G• S ACR« IN HONOREM • LV CILIAE - LEP IDINAE FLAVIA • TITIA • FILIAE PIENTISSIMAE	106
+24 	'Em Santiago de Cassim* Cenac.	V A H/ AVGG ONIA I OTVII/
+25 	Reperta est pars superior a. 1801, inferior a. 1808 in castello 	M IVLIO MAR. CELLO AED-/ Et • H V IP|o m. M-F-Merobrig? COViotr i •? I/......../ A SVIS . J ILLIVS • ATI HJANVS- HER • peR • SVCCESSIo NEM • P • C • 	148
+26 	Mensa lapidea super aram divi Blasii Res.	G-COCILICO • FVSCO PATRI EX • TEST • COCILICI A PASTOS ///////////	66
+27	 Reperta a. 1808	g-pagvsico valeriano ex testamen svo-scribo NIA-G-F-MXI M-HERES-F-C	67
+28	 Reperta a. 1808 	PAGVSICAE L •F • FVNDA NAE-C-PAGV SICVS • LVCI ANVS•SORO RI • OPTVMai 	69
+29 	Reperta a. 1808 	Q • SCRIBONO L • F • QVIRI PATERNO L-SCRIBONIV SATVRNINVS PATER 	63
+30 	Sines, in quadam turii 	d M s IVLIA • C•FIL MAR CELL IN A • A N • XXX  H-S-E-S-T-T-L 	60
