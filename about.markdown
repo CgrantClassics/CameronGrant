@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Me in Rome](/CameronGrant/Assets/CGrantRome.jpg)
+
 I'm a Roman historian predominantly interested in studying the evolving social status of women at the end of the Republic and the start of the Empire. I have a background in Creative Writing and focus my research on the way that women were talked about in Roman literature and the way that women talked about themselves in epigraphic materials.
 
 I earned my BA from FSU with a dual major in Classical Civilizations and Creative Writing
