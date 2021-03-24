@@ -74,6 +74,8 @@ Character/Symbol | Meaning in Clean Text
 `/` | Break in the physical inscription
 `///` etc. | Dashes inscribed within the inscription
 `#, *, +` | A drawing in the inscription
+`lowercase letters` | Scholarly reconstruction
+`-, •` | Mark on the inscription signifying an abbreviation
 
 
 In a backwards fashion, I started my digitization process with CIL III. For the sake of consistency, I will do so again now.
