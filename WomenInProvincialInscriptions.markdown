@@ -119,7 +119,8 @@ The end product of digitization and cleaning produces something like this:
 
 #### **CIL II: Spain**
 
-The scans of this volume were run through Fine Reader, and the results of the scans were vastly improved. The program even let me filter for Latin! This means that it is recognizing Latin words, phrases, and even some symbols!
+The scans of this volume were run through Fine Reader, and the results of the scans were vastly improved. 
+The program even let me filter for Latin! This means that it is recognizing Latin words, phrases, and even some symbols!
 
 ![CIL II Plain Text, Un-Cleaned](/CameronGrant/Assets/CIL_II_DirtyPlainTxt_FineReader.png)
 
