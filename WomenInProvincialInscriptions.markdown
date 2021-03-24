@@ -97,6 +97,7 @@ I cleaned each section and indicated the larger provincial region, and then the 
 
 Inscription # | Find Spot (if applicable) | Body of Inscription 
 ------------- | ------------------------- | ------------------- 
+8 | • Cyrenis ad aedem Apollinis. | IVLIAE - AVGVSTAE CYRENENSES P-OCTAVIO-PROCOS
 
 Some inscriptions did not include a known find spot. In these cases I inserted a double tab to leave that column blank. This process means that the inscriptions can now be easily copied into a program like Excel... and it produces a neat little table as well!
 
@@ -106,9 +107,13 @@ Some inscriptions did not include a known find spot. In these cases I inserted a
 The end product of digitization and cleaning produces something like this:
 
 > VII. CYRENAE (Gretna).  
+> 
 > (cf. C. I. Gr. 5129-5183).  
+> 
 > 8	 • Cyrenis ad aedem Apollinis. 	IVLIAE - AVGVSTAE CYRENENSES P-OCTAVIO-PROCOS 
+> 
 > 9	 Cyrenis. 	 pONT • MAX • TRIB NI M FACTA 
+> 
 > 10	 litteris magnis in epistylio, Cyrenis. 	 PORTICVS • CAESAREI • Restituit IVS• M • F • PACILAEVS L  
 
 
@@ -125,8 +130,11 @@ I went through the process of hand cleaning the text again. This text is more co
 ![CIL II Plain Text, Cleaned](/CameronGrant/Assets/CIL_II_CleanPlainTxt_FineReader.png)
 
 > I. OSSONOBA (Faro).
-> 1 		IMP • CAES • P • LI CINIO-VALERI ANO-P-F-AVG-PONT MAX- P • P • TR • POT• III COS • RES • P • OSSON EX • DECRETO • ORD DEVOTa•NVMINI M AI ES T A T I EIVS  	
+>
+>  1 		IMP • CAES • P • LI CINIO-VALERI ANO-P-F-AVG-PONT MAX- P • P • TR • POT• III COS • RES • P • OSSON EX • DECRETO • ORD DEVOTa•NVMINI M AI ES T A T I EIVS  	
+> 
 > 2		 M • CORNELIVS • ERIDANVS • C-IVNIVS • RECEPTVS OBHONOREM • IIIIIVIR • D • S • P • D •  	
+> 
 > 3	 	d • m • s c • A n n I v s R O M V L V S ANNORVM XXVIII H-S-E-S-T-T-L 	
 
 
