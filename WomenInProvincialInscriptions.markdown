@@ -12,12 +12,12 @@ The Corpus Inscriptionum Latinarum is a vast collection of inscriptions collecte
 
 Digitizing CIL corpus of Latin Inscriptions from the provinces of Spain, Egypt, and Asia in the hopes of creating a database for women in the Roman Mediterranean world.
 
-Final corpus digitized using Fine Reader OCR, with a smattering of Google OCR.
+Final corpus digitized using Fine Reader OCR, with a smattering of Google OCR. Cleaned plain text versions of the inscriptions are individually linked in the table below and on the [GitHub repository](https://github.com/CgrantClassics/CameronGrant) for this project.
 
 Volume Abbreviations | Volume Number | Locations
 -------------------- | ------------- | ---------
-CIL II | Volume 2 | Inscriptions from Roman Spain
-CIL III | Volume 3, Part 1 | Inscriptions from Roman Egypt and Asia
+[CIL II](https://github.com/CgrantClassics/CameronGrant/blob/main/Inscriptions/CIL_II_CleanTxt.txt) | Volume 2 | Inscriptions from Roman Spain
+[CIL III](https://github.com/CgrantClassics/CameronGrant/blob/main/Inscriptions/CIL_III_CleanTxt.txt) | Volume 3, Part 1 | Inscriptions from Roman Egypt and Asia
 
 
 
