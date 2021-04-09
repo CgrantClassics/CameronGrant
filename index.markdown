@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![Title Card](/CameronGrant/Assets/Website_HomePage.png)
