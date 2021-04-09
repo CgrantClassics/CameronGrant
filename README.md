@@ -104,4 +104,5 @@ Date | Start Time | End Time | Total Time | Work Done
 2021-03-23 | 11:31 am | 11:50 am | :19 | Cleaning CIL II
 2021-03-23 | 5:00 pm | 6:28 pm | 1:28 | Upoloading to Site
 2021-03-23 | 7:06 pm | 7:54 pm | :58 | Uploading to Site
-2021-04-09 | 9:40 am | ? | ? | Transferring Corpus to personal repos.
+2021-04-09 | 9:40 am | 11:01 am | 1:21 | Transferring Corpus to personal repos. Updating Website Home page
+
