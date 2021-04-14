@@ -38,5 +38,6 @@ The pattern that begins to emerge here is a frequency of words with feminine end
 1. Thebis, although it has the smallest number of inscriptions, has the highest concentration of feminine endings!
 2. The *-ae* ending is far more common in Alexandria than the other provinces, likely because the Latin spelling of the city's name is *Alexandriae*.
 3. Ossonoba has an interesting frequency dispersal that actually looks like a proper U-curve. This could indicate a more equal dispersal of feminine words as a whole.
+4. Spain has a higher frequency of feminine words than Egypt does, at least across these two provinces.
 
 
