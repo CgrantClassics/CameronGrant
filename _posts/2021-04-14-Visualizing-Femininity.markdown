@@ -55,7 +55,7 @@ Given the small sample size used, very few solidly feminine terms appear (i.e., 
 In Merobriga we find one daughter (indicated by the green bar):
 
 
-!Merobriga Inscriptions](/CameronGrant/Assets/Merobriga_Filiae.png)
+![Merobriga Inscriptions](/CameronGrant/Assets/Merobriga_Filiae.png)
 
 While these graphs do not indicate a wider pattern, they do show us that in a small sample size of inscriptions, explicitly feminine terms are less common than feminine nouns. 
 
