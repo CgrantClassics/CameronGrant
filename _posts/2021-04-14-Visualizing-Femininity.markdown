@@ -64,7 +64,7 @@ The daughter, Flavia Titia, appears in Inscription 23, evidently honoring some s
 > VENERI • VICTRI CI- A V G• S ACR« IN HONOREM • LV CILIAE - LEP IDINAE FLAVIA •
 TITIA • FILIAE PIENTISSIMAE
 
-The term *pientissimae* is a (fairly high frequency term)[https://www.trismegistos.org/abb/abbreflist.php?combin_id=57168] in inscriptions, and is also, in conjunction with *filiae*, (common)[https://www.trismegistos.org/abb/abbreflist_clust.php?word_full_clust_id=44859].
+The term *pientissimae* is a fairly high frequency term in inscriptions, and is often used in conjunction with *filiae*.
 
 
 ## **Women in Ossonoba Inscriptions**
