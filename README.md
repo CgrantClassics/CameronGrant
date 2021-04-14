@@ -107,3 +107,5 @@ Date | Start Time | End Time | Total Time | Work Done
 2021-04-09 | 9:40 am | 11:01 am | 1:21 | Transferring Corpus to personal repos. Updating Website Home page
 2021-04-10 | 9:20 am | 10:41 am | 1:21 | Catch-up work - RStudio
 2021-04-13 | 9:10 am | 9:37 am | :27 | RStudio
+2021-04-14 | 8:10 am | 9:03 am | :53 | Visualization work: Voyant / Palladio
+2021-04014 | 10:24 am | 11:19 am | :55 | Visualization
