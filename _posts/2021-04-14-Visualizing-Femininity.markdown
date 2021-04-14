@@ -82,6 +82,9 @@ The exciting part about this search is what it reveals... the names of approxima
 >
 > Inscription 8: ARTVLLIA and SEVERA
 
-Each of these phrases is the feminine form of a Roman cognomen and indicate an indinvidual woman (the nature of inscription 8 could actually be that we are seeing one woman, but I would hazard these are two individuals).
+Each of these phrases is the feminine form of a Roman cognomen and indicate an indinvidual woman (the nature of inscription 8 could actually be that we are seeing one woman, but I would hazard that these are two individuals).
 
 Inscription 8 is particularly interesting as it appears on a funerary epitaph for one Lucius Atillus Maximus Severianus. The names of the women *could* be dedicants, but certainly indicate female relatives, it is unclear if they are siblings, a mother, a wife, or daughters. Their relationship is clearly important enough to the deceased to be recognized on the epitaph which is already quite long and intricate (the two "diamond" symbols are actually drawings of some sort on the physical inscription).
+
+
+What these visualizations may indicate, with a great deal more refining, is that while specifically gendered terms may be *rarer* in these provincial inscriptions, individually named women are *more common*. If this pattern holds true across the larger corpus, it would be very exciting indeed! Such data can be used to determine social standing, religious practices, occupation, and common names for women across the Roman provinces!
