@@ -5,7 +5,7 @@ date:   2021-04-14 8:45:18 -0500
 categories: 
 ---
 
-This week I spent some time working on visualizing data on feminine words and feminine endings in 4 provinces across my corpus: Alexandria and Thebis in Egypt, and Ossonoba and Merobiga in Spain.
+This week I spent some time working on visualizing data on feminine words and feminine endings in four provinces across my corpus: Alexandria and Thebis in Egypt, and Ossonoba and Merobiga in Spain.
 
 
 My main goal was to find paterns relating to feminine words and word endings across the inscriptions, as locating words with feminine endings, in this case *-ae* or *-a*, is often the best way to find names of women or words relating to womanhood, motherhood, and wifehood. It is not a fool-proof approach, but it does yield some interesting result.
