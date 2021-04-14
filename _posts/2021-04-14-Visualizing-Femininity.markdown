@@ -10,7 +10,7 @@ This week I spent some time working on visualizing data on feminine words and fe
 
 My main goal was to find paterns relating to feminine words and word endings across the inscriptions, as locating words with feminine endings, in this case *-ae* or *-a*, is often the best way to find names of women or words relating to womanhood, motherhood, and wifehood. It is not a fool-proof approach, but it does yield some interesting result.
 
-Below are some visualizations from the word-tool [Voyant](https://voyant-tools.org/).
+Below are some visualizations from the word-tool [Voyant](https://voyant-tools.org/). I would also like to note that the tool assigned the color code for these terms, not me. There's a joke about unconcious bias in there somewhere...
 
 
 ## **Alexandria**
