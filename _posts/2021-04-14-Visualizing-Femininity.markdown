@@ -43,7 +43,7 @@ The pattern that begins to emerge here is a frequency of words with feminine end
 
 ## **Digging Deeper: Finding Women**
 
-So much for words with feminine endings! As previously stated not all of the words captured in the above graphs are representitve of words with actual femininine conotations. A great number of them are, however, names! Voyant's "reader" feature actually allowed me to take a closer look at the words and phrases captured on the frequency graphs.
+So much for words with feminine endings! As previously stated not all of the words captured in the above graphs are representitve of words with actual femininine conotations. A great number of them are, however, names! Voyant's "reader" feature actually allowed me to take a closer look at the words and phrases captured on the frequency graphs, but more on that later. For now, let's talk about "feminine phrases".
 
 
 Given the small sample size used, very few solidly feminine terms appear (i.e., "mother", "wife", "daughter", "sister", etc.). They do, however, exist. In Alexandria we see one mother (indicated by the blue bar):
