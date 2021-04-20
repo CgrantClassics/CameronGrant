@@ -23,6 +23,12 @@ Volume Abbreviations | Volume Number | Locations
 
 *Disclaimer*: This project is being done as I dip my toes into the realm of computational methods for Humanities research. I claim neither mastery nor accuracy at this point in time, this is an artifact of the learning process. 
 
+# On the Promise of the Future
+
+As this project stands right now, there may seem to be very little information of use. The corpus is messy, the experiments are small in size, and conclusions seem like I'm grasping at straws. Some of that is true! But the beuty of this corpus is its incredible extent and the richness of its information. It has been around since the 1800s, and inscriptions are one of the most thoroughly combed over sources in the study of Classics, and *yet* there is always something new to uncover. 
+
+At a larger scale, with cleaner text, and a great deal of practice and patience, I believe that digitizing and quantifying provincial inscriptions like these could prove highly useful in the study of women- their lives, their cares, and their image- in the ancient Mediterranean. Even already, despite the small sample sizes of the experiments shared on this site, interesting patterns have been teased out. Feminine words are more common than words with a connotation of femininity. Population density can be observed in inscription density. Relative cost, with the right research, could be assigned. All of this information, when run through the lens of living, breathing, women in the ancient world has the potential to make our understanding all the more nuanced and all the fuller. 
+
 
 ## The Material: Considerations and Issues
 
