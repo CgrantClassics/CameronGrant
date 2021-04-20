@@ -34,12 +34,12 @@ I first loaded my data sets into R-Studio to produce the following tables:
 
 **Creta and Cyrenaica**
 
-![Creta Table](CameronGrant/Assets/RStudio_DataFrame_CIL_III_Creta.png)
-![image](CameronGrant/Assets/RegionMap.png)
+![Data Frame](CameronGrant/Assets/RStudio_DataFrame_CIL_III_Creta.png)
 
 **Alexandria**
 
-![Alexandria Table](CameronGrant/Assets/RStudio_DataFrame_CIL_III_Alexandria.png)
+
+![Data Frame](CameronGrant/Assets/RStudio_DataFrame_CIL_III_Alexandria.png)
 
 These tables are known as data frames, and they're what R-Studio's "ggplot" package will turn into pretty charts and graphs. I've listed relevant info such as the inscription's call number; its province, city, or region of origin; the full body of the inscription; and an accurate character count (spaces are not counted as characters).
 
@@ -48,4 +48,6 @@ I elected to quantify this data to see what I could observe about inscription le
 * X-Axis: City or Region of origin
 * Y-Axis: Character count
 
-These graphs should show me a general pattern of inscription length which could theoretically be used to determine cost of inscriptions.
+These graphs should show me a general pattern of inscription length which could theoretically be used to determine cost of inscriptions. Let's find out, shall we?
+
+
