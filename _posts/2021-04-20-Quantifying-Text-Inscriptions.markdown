@@ -32,14 +32,17 @@ Obviously, there's a big disparity in sample size here which is typically frowne
 
 I first loaded my data sets into R-Studio to produce the following tables:
 
-**Creta and Cyrenaica**
-
-![Data Frame](CameronGrant\Assets\RStudio_DataFrame_CIL_III_Creta.png)
-
-**Alexandria**
+# **Creta and Cyrenaica**
 
 
-![Data Frame](CameronGrant/Assets/RStudio_DataFrame_CIL_III_Alexandria.png)
+![Data Frame Creta](CameronGrant/Assets/RStudio_DataFrame_CIL_III_Creta.png)
+
+
+# **Alexandria**
+
+
+![Data Frame Alexandria](CameronGrant/Assets/RStudio_DataFrame_CIL_III_Alexandria.png)
+
 
 These tables are known as data frames, and they're what R-Studio's "ggplot" package will turn into pretty charts and graphs. I've listed relevant info such as the inscription's call number; its province, city, or region of origin; the full body of the inscription; and an accurate character count (spaces are not counted as characters).
 
@@ -51,3 +54,18 @@ I elected to quantify this data to see what I could observe about inscription le
 These graphs should show me a general pattern of inscription length which could theoretically be used to determine cost of inscriptions. Let's find out, shall we?
 
 
+# **Creta and Cyrenaica**
+
+
+![Scatter Plot Creta](CameronGrant/Assets/Rplot_CretaAndCyrenaica.png)
+
+
+# **Alexandria**
+
+
+![Scatter Plot Alexandria](CameronGrant/Assets/Rplot_Alexandria.png)
+
+
+As you can see from both of these graphs, there is a fairly low average length of inscriptions, but both Creta and Alexandria have a few extremely long outliers. These outliers could warrent further investigation for interesting insight on patterns across long inscriptions. The average lengths could also reveal interesting information on common epigraphic practices i.e., do the shorter inscriptions share a similar purpose? Are they votive in nature, or are they funerary?
+
+Obviously there is fine-tuning that could be accomplished with this tool. While it is not currently the best tool for me given the state of my corpus, it could prove extremely useful in the future!
