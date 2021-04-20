@@ -33,9 +33,11 @@ Obviously, there's a big disparity in sample size here which is typically frowne
 I first loaded my data sets into R-Studio to produce the following tables:
 
 **Creta and Cyrenaica**
+
 ![Creta Table](CameronGrant/Assets/RStudio_DataFrame_CIL_III_Creta.png)
 
 **Alexandria**
+
 ![Alexandria Table](CameronGrant/Assets/RStudio_DataFrame_CIL_III_Alexandria.png)
 
 These tables are known as data frames, and they're what R-Studio's "ggplot" package will turn into pretty charts and graphs. I've listed relevant info such as the inscription's call number; its province, city, or region of origin; the full body of the inscription; and an accurate character count (spaces are not counted as characters).
