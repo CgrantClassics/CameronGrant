@@ -34,7 +34,7 @@ I first loaded my data sets into R-Studio to produce the following tables:
 
 **Creta and Cyrenaica**
 
-![Data Frame](CameronGrant/Assets/RStudio_DataFrame_CIL_III_Creta.png)
+![Data Frame](CameronGrant\Assets\RStudio_DataFrame_CIL_III_Creta.png)
 
 **Alexandria**
 
